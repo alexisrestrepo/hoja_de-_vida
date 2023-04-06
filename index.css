@@ -1,0 +1,89 @@
+body{
+  background-color: #ffe6a7;
+  margin:50px;
+}
+
+.uno{
+    background-color: #99582a;
+    
+    
+}
+
+ img{
+    height: 300px;
+    width: 300;
+    margin:auto;
+    display: block;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+  }
+  .dos{
+    text-align:center;
+    font-family: cursive;
+  }
+  .tres{
+    text-align:left;
+    font-family: cursive;
+  }
+  .cuatro{
+    text-align: justify;
+    line-height: 30px;
+
+  }
+  .cinco{
+    font-family: cursive;
+    text-align:left;
+  }
+  
+   table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    height: 30px;
+    text-align:center;
+  }
+  
+   
+    button{
+      background-color: #99582a;
+      display: block;
+      width: 100px;
+      height: 45px;
+      border: none;
+      color: #040404;
+      border-radius: 5px;
+      font-size: 16px;
+      margin: 20px auto;
+      cursor: pointer;
+    }
+    input{
+      content: initial;
+    }
+
+
+
+ola{
+      width: 70px;
+      height: 300px;
+      border: 1px solid #c3c3c3;
+      display: flex;
+      flex-wrap: wrap;
+      align-content: center;
+    
+    }
+    
+   
+    
+
+  
+
+    
+
+    
+
+    
+   
+  
+
+  
+ 
